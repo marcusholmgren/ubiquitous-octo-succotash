@@ -11,3 +11,6 @@ sam.yaml
 /cypress/videos
 
 /app/styles/tailwind.css
+
+# JetBrains IDEs
+/.idea
